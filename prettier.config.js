@@ -1,5 +1,4 @@
-/** @type {import('prettier').Config} */
-export default {
+module.exports = {
   // Quotes & punctuation
   singleQuote: false,
   jsxSingleQuote: false,
